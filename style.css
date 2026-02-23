@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    background-color: rgb(217, 0, 255);
+    padding: 20px;
+}
+
+.box {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    background-color: rgb(79, 42, 165);
+    font-size: 30xp;
+}
